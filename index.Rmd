@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Solucionário de *Probabilidade e Estatística (Walpole)*"
+author: "Igo da Costa Andrade"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 #documentclass: memoir
@@ -13,5 +13,7 @@ output:
 
 \newpage
 # Informações preliminares {-}
+
+
 
 

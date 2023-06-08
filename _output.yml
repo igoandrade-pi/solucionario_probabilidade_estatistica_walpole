@@ -3,12 +3,12 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">SHORT TITLE HERE</a></li>
+        <li><a href="./">Solucionário de Probabilidade e Estatísitca (Walpole)</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
-  latex_engine: pdflatex
+  latex_engine: xelatex
   keep_tex: yes

@@ -1,4 +1,4 @@
-primeiro-capítulo
+introdução-à-estatística-e-análise-de-dados
 primeira-seção-do-capítulo-1
 primeira-subseção-do-capítulo-1
-a-caucus-race-and-a-long-tale
+probabilidade

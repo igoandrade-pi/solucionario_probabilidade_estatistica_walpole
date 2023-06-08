@@ -1,8 +1,8 @@
 book_filename: "main"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/main/%s
-view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/main/%s
+edit: https://github.com/igoandrade-pi/solucionario_probabilidade_estatistica_walpole/edit/main/%s
+view: https://github.com/YOigoandrade-pi/solucionario_probabilidade_estatistica_walpole/blob/main/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
